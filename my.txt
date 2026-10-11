@@ -789,7 +789,7 @@ priorityList = {
     "Fragrama and Chocrama",
     "Spooky and Pumpky",
     "Popcuru and Fizzuru",
-    "La Secret Combinasion",
+    "Burguro And Fryuro",
     "Reinito Sleighito",
     "Capitano Moby",
     "Cerberus",
@@ -798,7 +798,8 @@ priorityList = {
     "Los Hackers",
     "Gold and Diamond",
     "Samyni Spookini",
-    "Burguro And Fryuro",
+    "La Secret Combinasion",
+     
 }
 _G.SXE_PrioSet = {}
 for _, n in ipairs(priorityList) do
