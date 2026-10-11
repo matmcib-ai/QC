@@ -750,7 +750,7 @@ priorityList = {
     "Elefanto Frigo",
     "John Pork",
     "Meowl",
-    "Los Dragons",
+    "Cola Cat",
     "Skibidi Toilet",
     "Arcadragon",
     "Griffin",
