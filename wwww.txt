@@ -804,6 +804,7 @@ priorityList = {
     "Los Hackers",
     "Gold and Diamond",
     "Samyni Spookini",
+    "Cash or Card",
     "La Secret Combinasion",
      
 }
