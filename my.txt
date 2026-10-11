@@ -781,6 +781,8 @@ priorityList = {
     "Los Admins",
     "Bumbatron",
     "Dug dug dug",
+    "Smore Serat",
+    "Los Chilis",
     "Rico Dinero",
     "Gym Bros",
     "Duggy Bros",
